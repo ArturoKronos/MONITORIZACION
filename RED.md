@@ -9,13 +9,13 @@ Comando `tcpdump` :
 
 ## CON MI TARJETA DE RED 
 
-Comando `tcpdump -i enp1s0f1` :
+Comando `tcpdump -i wlp0s20f3` :
 
 ![tcpdump](img/img19.png)
 
 ## A UN ARCHIVO
 
-Comando `sudo tcpdump -i enp1s0f1 -w capturas` :
+Comando `sudo tcpdump -i wlp0s20f3 -w capturas` :
 
 ![tcpdump](img/img20.png)
 
@@ -25,7 +25,7 @@ Comando `tcpdump -r` para hacerlo en modo lectura
 
 TCPTRACK es una herramienta de monitoreo de conexiones TCP en tiempo real. Está diseñada para mostrar información detallada sobre las conexiones TCP activas en un sistema, como el estado de cada conexión, los puertos involucrados, la cantidad de datos enviados y recibidos, entre otros detalles. A diferencia de otras herramientas como netstat o ss, que pueden ofrecer información más general sobre las conexiones de red, tcptrack se enfoca en proporcionar una visualización en tiempo real y fácil de leer de las conexiones TCP activas.
 
-Comando `tcptrack -i enp1s0f1` :
+Comando `tcptrack -i wlp0s20f3` :
 
 ![tcpdump](img/img22.png)
 
