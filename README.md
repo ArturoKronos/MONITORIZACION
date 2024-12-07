@@ -12,6 +12,10 @@ La monitorización es el proceso de observar, recopilar y analizar datos sobre e
 
 # REFERENCIAS
 
- [chatGPT](https://www.chatgpt.com)
+ [CHATGPT](https://www.chatgpt.com)
  
  [CLASES DE MANOLO](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
+
+ # GRACIAS POR SU TIEMPO! ESPERO QUE HAYA SIDO ÚTIL ;)
+
+ ![maz](img/maz.jpg)
