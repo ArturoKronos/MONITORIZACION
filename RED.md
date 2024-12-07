@@ -11,13 +11,13 @@ Comando `tcpdump` :
 
 Comando `tcpdump -i wlp0s20f3` :
 
-![tcpdump](img/img19.png)
+![tcpdump](img/img199.png)
 
 ## A UN ARCHIVO
 
 Comando `sudo tcpdump -i wlp0s20f3 -w capturas` :
 
-![tcpdump](img/img20.png)
+![tcpdump](img/img200.png)
 
 Comando `tcpdump -r` para hacerlo en modo lectura
 
