@@ -78,3 +78,11 @@ htop es una herramienta interactiva y visual para monitorear el rendimiento de u
 
 Utilizacion `htop` :
 ![psa](img/img7.png)
+
+# ATOP
+
+El comando atop es una herramienta avanzada de monitoreo de sistemas en tiempo real para Linux, similar a top y htop, pero con características adicionales y más detalladas. Permite realizar un seguimiento exhaustivo de los recursos del sistema, como la CPU, la memoria, el disco y la red, proporcionando un análisis más profundo y preciso del rendimiento del sistema.
+
+Utilizacion `atop` :
+
+![psa](img/img8.png)
