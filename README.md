@@ -9,3 +9,9 @@ La monitorización es el proceso de observar, recopilar y analizar datos sobre e
 2 [ALMACENAMIENTO](ALMACENAMIENTO.md)
 
 3 [RED](RED.md)
+
+# REFERENCIAS
+
+ [chatGPT](https://www.chatgpt.com)
+ 
+ [CLASES DE MANOLO](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
