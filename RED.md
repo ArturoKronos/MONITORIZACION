@@ -17,9 +17,7 @@ Comando `sudo tcpdump -i enp1s0f1 -w capturas` :
 
 ![tcpdump](img/img20.png)
 
-Comando `tcpdump -r` para hacerlo en modo lectura : 
-
-![tcpdump](img/img21.png)
+Comando `tcpdump -r` para hacerlo en modo lectura
 
 # TCPTRACK
 
