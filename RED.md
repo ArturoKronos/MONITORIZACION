@@ -30,3 +30,28 @@ Comando `tcptrack -i wlp0s20f3` :
 ![tcpdump](img/img22.png)
 
 ![tcpdump](img/img21.png)
+
+# IPTRAF
+
+IPTRAF es una herramienta de monitoreo de tráfico de red para sistemas Linux. Es una aplicación de línea de comandos que permite visualizar y analizar el tráfico de red en tiempo real, proporcionando estadísticas detalladas sobre las conexiones de red activas, como la cantidad de datos transmitidos, los puertos de origen y destino, direcciones IP, entre otros.
+
+## INSTALACIÓN
+
+Para instalarlo usamos el comando `sudo apt install iptraf-ng`:
+
+![tcpdump](img/img23.png)
+
+![tcpdump](img/img24.png)
+
+# BMON
+
+BMON (Bandwidth Monitor) es una herramienta de monitoreo de ancho de banda en tiempo real para sistemas Linux. Es una herramienta ligera y de línea de comandos que permite monitorear el uso del ancho de banda de las interfaces de red, proporcionando estadísticas detalladas sobre la cantidad de datos transmitidos y recibidos a través de las interfaces de red de un sistema.
+
+La ventaja de bmon es que proporciona una vista clara y visual del uso de la red, con gráficos simples en texto que pueden mostrar el tráfico de red en tiempo real de manera eficiente. Es especialmente útil para los administradores de sistemas que necesitan monitorear el rendimiento de la red sin recurrir a herramientas más complejas.
+
+# INSTALACIÓN 
+
+Para instalarlo usamos el comando `sudo apt install bmon`:
+
+![tcpdump](img/img25.png)
+
