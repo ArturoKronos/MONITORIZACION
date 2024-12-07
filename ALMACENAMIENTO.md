@@ -22,3 +22,16 @@ Comando `du -hs` :
 
 ![free](img/img13.png)
 
+Comando `sudo du -h --max-depth=1 /home/` :
+
+![free](img/img14.png)
+
+# COMANDO PARA VER LAS CARACTERISTICAS DE CPU 
+
+Comando `iostat` :
+
+![free](img/img15.png)
+
+Comando en intervalos de 5 segundos `iostat -x nvme0n1 -s 5` : 
+
+![free](img/img16.png)
