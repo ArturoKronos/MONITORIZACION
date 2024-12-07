@@ -1,6 +1,7 @@
 # COMANDO PS 
-## ps
+
 El comando PS nos muestra imformacion sobre los procesos. 
+
 ```bash	
 ps a
 ```
@@ -50,3 +51,21 @@ El comando top permite ver en tiempo real los procesos que están ejecutándose 
 `top -b -n 3 -o +%CPU | head -n 17` nos muestra los 10 procesos que más CPU consumen cada 3 segundos
 
 ![psa](img/img6.png)
+
+# HTOP 
+htop es una herramienta interactiva y visual para monitorear el rendimiento de un sistema en tiempo real, similar a top, pero con una interfaz más amigable y con funcionalidades adicionales. Está disponible en sistemas Linux y otros sistemas operativos basados en Unix.
+
+## ATAJOS
+`F1`: Mostrar ayuda (teclas de acceso rápido disponibles).
+`F2`: Configurar la interfaz (personalizar la visualización).
+`F3`: Buscar un proceso por nombre.
+`F4`: Filtrar procesos (ingresa un patrón para filtrar los procesos).
+`F5`: Mostrar los procesos en forma de árbol (para ver las relaciones padre-hijo).
+`F6`: Cambiar el criterio de ordenación de los procesos.
+`F7`: Disminuir la prioridad (renice) de un proceso.
+`F8`: Aumentar la prioridad (renice) de un proceso.
+`F9`: Matar un proceso (terminar el proceso seleccionado)
+`F10`: Salir de htop.
+
+Utilizacion `htop` :
+![psa](img/img7.png)
