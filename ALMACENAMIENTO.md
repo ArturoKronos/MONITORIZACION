@@ -32,6 +32,11 @@ Comando `iostat` :
 
 ![free](img/img15.png)
 
+Comando `iostat -x` : 
+
+![free](img/img17.png)
+
+
 Comando en intervalos de 5 segundos `iostat -x nvme0n1 -s 5` : 
 
 ![free](img/img16.png)
