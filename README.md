@@ -6,4 +6,4 @@ La monitorización es el proceso de observar, recopilar y analizar datos sobre e
 ## ¿ QUE VAMOS A MONITORIZAR ?
 1 [PROCESOS](PROCESOS.md)
 
-2 [ALMACENAMIENTO](ALMACENAMINTO.md)
+2 [ALMACENAMIENTO](ALMACENAMIENTO.md)
