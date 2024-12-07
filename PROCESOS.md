@@ -49,3 +49,4 @@ El comando top permite ver en tiempo real los procesos que están ejecutándose 
 
 `top -b -n 3 -o +%CPU | head -n 17` nos muestra los 10 procesos que más CPU consumen cada 3 segundos
 
+![psa](img/img6.png)
