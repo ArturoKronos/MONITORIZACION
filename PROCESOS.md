@@ -23,3 +23,5 @@ Si quieres ver los 5 que mas ocupan memoria, puedes usar
 
 `ps -eo user,pid,%cpu,%mem,time --sort=-%cpu | head -n 6`
 ![psa](img/img5.png)
+
+# COMANDO TOP
