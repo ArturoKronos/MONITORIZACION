@@ -4,9 +4,9 @@
 La monitorización es el proceso de observar, recopilar y analizar datos sobre el funcionamiento y el rendimiento de un sistema, proceso o recurso, con el objetivo de garantizar su correcto funcionamiento, identificar problemas o detectar anomalías antes de que afecten significativamente a las operaciones.
 
 ## ¿ QUE VAMOS A MONITORIZAR ?
-1 [PROCESOS](PROCESOS.md)
+1 [HERRAMIENTAS PROPIAS DEL SISTEMA EN LINUX](PROCESOS.md)
 
-2 [ALMACENAMIENTO](ALMACENAMIENTO.md)
+2 [SISTEMAS DE MONITORIZACIÓN](ALMACENAMIENTO.md)
 
 3 [RED](RED.md)
 
