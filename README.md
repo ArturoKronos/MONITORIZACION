@@ -16,6 +16,9 @@ La monitorización es el proceso de observar, recopilar y analizar datos sobre e
  
  [CLASES DE MANOLO](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
 
+ # AUTOR
+ [Arturo Kronos Fernández Curiel ](https://github.com/ArturoKronos)
+
  # GRACIAS POR SU TIEMPO! ESPERO QUE HAYA SIDO ÚTIL ;)
 
  ![maz](img/maz.jpg)
