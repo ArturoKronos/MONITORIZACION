@@ -10,7 +10,7 @@ La monitorización es el proceso de observar, recopilar y analizar datos sobre e
 
 3 [RED](RED.md)
 
-4 [MAPA CONCEPTUAL]()
+4 [MAPA CONCEPTUAL](img/mapa.jpg)
 
 # REFERENCIAS
 
