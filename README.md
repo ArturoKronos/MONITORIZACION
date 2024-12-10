@@ -12,7 +12,7 @@
 
 4 [RED](RED.md)
 
-5 [MAPA CONCEPTUAL](img/mapa.png)
+5 [MAPA CONCEPTUAL](img/mapa2.png)
 
 # REFERENCIAS
 
