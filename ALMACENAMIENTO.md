@@ -13,3 +13,9 @@ Interfaz Web: Ofrece una interfaz gráfica a través de la cual los administrado
 Escalabilidad y Personalización: Es adecuado tanto para redes pequeñas como para grandes infraestructuras de TI, y permite personalizar el monitoreo para adaptarse a las necesidades específicas de una organización.
 
 ![nagios](/img/nagios.png)
+
+# PROMETHEUS
+
+Prometheus es un sistema de monitoreo y almacenamiento de series temporales diseñado para la recopilación de métricas de aplicaciones, servicios y sistemas. Es especialmente popular en entornos de microservicios y aplicaciones basadas en contenedores, como las que usan Kubernetes. Prometheus proporciona una solución robusta para la monitorización de infraestructura en tiempo real y está diseñado para ser altamente escalable y flexible.
+
+![prometeus](/img/prometeus.png)
