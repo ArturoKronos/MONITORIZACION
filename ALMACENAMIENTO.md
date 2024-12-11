@@ -16,3 +16,8 @@ Grafana es una plataforma de código abierto para la visualización y análisis 
 
 ![grafana](/img/grafana1.png)
 ![grafana](/img/grafana.jpg)
+
+# ZABBIX
+Zabbix es una plataforma de monitoreo de infraestructura de TI de código abierto que permite supervisar el rendimiento y la disponibilidad de servidores, aplicaciones, redes y otros componentes de sistemas informáticos. Es una herramienta poderosa y flexible utilizada por empresas para garantizar la operatividad y eficiencia de sus sistemas y servicios.
+
+![zabbix](/img/ZABBIX.jpg)
