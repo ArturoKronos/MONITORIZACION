@@ -15,4 +15,4 @@ Prometheus es un sistema de monitoreo y almacenamiento de series temporales dise
 Grafana es una plataforma de código abierto para la visualización y análisis de datos en tiempo real. Se utiliza comúnmente para crear paneles (dashboards) interactivos y visualizaciones atractivas que permiten monitorear el rendimiento y estado de sistemas, aplicaciones, bases de datos y otras infraestructuras de TI. Grafana se integra principalmente con sistemas de monitoreo como Prometheus, pero también es compatible con una amplia variedad de fuentes de datos como Elasticsearch, InfluxDB, MySQL, y muchas más.
 
 ![grafana](/img/grafana1.png)
-![grafana](/img/grafana.png)
+![grafana](/img/grafana.jpg)
